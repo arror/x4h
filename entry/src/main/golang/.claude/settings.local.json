@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(go doc:*)",
+      "Read(//Users/arror/OHOSAPP/XrayForHarmonyOS/entry/src/main/golang/$\\(go env GOPATH\\)/pkg/mod/github.com/xtls/xray-core*/features/routing/**)",
+      "Bash(go build:*)"
+    ]
+  }
+}
